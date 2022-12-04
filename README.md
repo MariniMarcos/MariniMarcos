@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I have a degree in Business Administration and Management and I am currently studying at coderhouse the Front end career. Throughout this time, I have realized that I am passionate about the IT world and I want to be part of it. I have knowledge in web development (html, css, sass, javascript, git, ajax, libraries, etc) and I am currently studying react js. That's why I would like to join a team that allows me to continue growing in my skills and to venture into the development of new competences.</h3>
 
 - 🌱 I’m currently learning **Front-end courses**
 
