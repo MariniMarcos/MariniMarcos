@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Marini Marcos, I'm 27 years old and I currently live in Argentina. I have a degree in Business Administration and I recently graduated as a React Frontend Developer. I currently work as a credit and collections analyst in the finance sector at Grupo Ferrero, but my true passion is technology and that's why I'm looking for an opportunity to start working as a developer in a technology company. I am passionate about programming and I love to be constantly learning to keep up with the latest technology trends. I am confident that I can bring my skills and knowledge to a team and I am excited about the possibilities that the future holds for me in this field.
 </h3>
 
-- 🌱 I’m currently learning **Front-end courses**
+- 🌱 I recently graduated as a React Frontend Developer.**
 
 - 👯 I’m looking to collaborate on **Front-end project as junior developer**
 
